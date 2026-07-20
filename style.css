@@ -1,0 +1,41 @@
+body{
+background:#111;
+color:white;
+font-family:Arial,sans-serif;
+margin:0;
+padding:0;
+}
+
+header{
+background:black;
+padding:20px;
+text-align:center;
+border-bottom:3px solid gold;
+}
+
+h1{
+color:gold;
+font-size:38px;
+}
+
+.container{
+padding:20px;
+}
+
+.card{
+background:#1b1b1b;
+padding:20px;
+border-radius:15px;
+box-shadow:0 0 15px rgba(255,215,0,.3);
+}
+
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:12px 25px;
+background:gold;
+color:black;
+text-decoration:none;
+border-radius:30px;
+font-weight:bold;
+}
