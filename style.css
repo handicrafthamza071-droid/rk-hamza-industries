@@ -30,12 +30,5 @@ box-shadow:0 0 15px rgba(255,215,0,.3);
 }
 
 .btn{
-display:inline-block;
-margin-top:20px;
-padding:12px 25px;
-background:gold;
-color:black;
-text-decoration:none;
-border-radius:30px;
-font-weight:bold;
+
 }
